@@ -51,6 +51,8 @@ To add a new student copy the picture of the student into the image folder with 
 ![database](https://github.com/user-attachments/assets/3019ac64-b30e-4e36-a222-8ca34739a15f)
 
 ## Training models
+![image](https://github.com/user-attachments/assets/ca3b0766-f7c5-4628-b38e-b13c46e53971)
+
 
 ## Contact Details: 
 phno: 8179421105
