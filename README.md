@@ -27,7 +27,7 @@ Prerequisites
 
     Download the repository
 
-git clone https://github.com/saptarsheemitra/Envisage22.git
+git clone (https://github.com/Akhil20003/Attendance-Detectio-Model/tree/main)
 
     Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
     Type ‘npm install’ in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
